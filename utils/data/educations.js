@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "B.Tech (Artificial Intelligence and Machine Learning)",
+    duration: "2021 - Present",
+    institution: "Saveetha School Of Engineering - Saveetha University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary",
+    duration: "2019 - 2021",
+    institution: "Bharathi Vidhyalaya Matric Higher Secondary School, Namakkal",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary School",
+    duration: "2009 - 2019",
+    institution: "Bharathi Vidhyalaya Matric Higher Secondary School, Namakkal"
   }
 ]
