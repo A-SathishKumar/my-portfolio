@@ -8,7 +8,7 @@ export const personalData = {
   address: '13/7 Thillaipuram Main Road, Namakkal-637001',
   github: 'https://github.com/A-SathishKumar',
   facebook: '',
-  linkedIn: '',
+  linkedIn: 'https://www.linkedin.com/in/a-sathish-kumar-0242232a8/',
   twitter: '',
   stackOverflow: '',
   leetcode: "",
